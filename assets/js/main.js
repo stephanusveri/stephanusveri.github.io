@@ -116,6 +116,7 @@ sr.reveal('.section__title', {delay: 500, origin: 'left'})
 sr.reveal('.section__subtitle', {delay: 300, origin: 'right'})
 sr.reveal('.about__img', {delay: 500, origin: 'left'})
 sr.reveal('.about__data, .about__description', {delay: 300, origin: 'right'})
+sr.reveal('.skills__content', {delay: 500, origin: 'left'})
 
 // POPUP MODAL
 
